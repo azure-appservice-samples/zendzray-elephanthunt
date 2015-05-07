@@ -5,7 +5,7 @@ Join the excursion to head home with your very own ZRay Elephant bobble head.
 # What do I need?
 
 * [Microsoft Azure Trial Subscription](http://aka.ms/tryazuretoday)
-* About **5 minutes** in the hallway track
+* About **10 minutes** in the hallway track
 
 # Let's do this!
 
