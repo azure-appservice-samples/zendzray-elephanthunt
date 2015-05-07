@@ -73,4 +73,4 @@
 [resourcegroup]: ./media/website-from-gallery/showgroup.png
 [browse]: ./media/website-from-gallery/browse.png
 [20]: ./media/pricing-tier-view-all.png
-[22]: ./media/free-tier.png
+[22]: ./media/Free-Tier.png

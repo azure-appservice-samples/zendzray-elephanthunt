@@ -5,7 +5,7 @@ Join the excursion to head home with your very own ZRay Elephant bobble head.
 # What do I need?
 
 * [Microsoft Azure Trial Subscription](http://aka.ms/tryazuretoday)
-* About **5 minutes** in the hallway track
+* About **10 minutes** in the hallway track
 
 # Let's do this!
 
@@ -54,7 +54,7 @@ In the Web App Created in the Previous steps:
    ![][90]
 
 [10]: ./media/Web-App-Settings.png
-[20]: ./media/Web-App-Settings-Zend-ZRay.png
+[20]: ./media/Web-App-Settings-Zend-Zray.png
 [30]: ./media/Zend-ZRay-Enable.png
 [40]: ./media/Zend-ZRay-Price-Picker.png
 [50]: ./media/Zend-ZRay-License.png
